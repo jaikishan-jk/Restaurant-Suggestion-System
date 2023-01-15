@@ -1,1 +1,3 @@
 # Restaurant-Suggestion-System
+<p>A restaurant suggestion system is a tool that helps users find the perfect dining spot based on their preferences. The system can take into account factors such as location, price range, cuisine type, and ratings. Users can input their search criteria and the system will return a list of restaurants that match their preferences. Additionally, the system may include features such as reviews, photos, and reservations. The project could be a website or an app that is designed to make the process of finding a restaurant easy and convenient for users.</p>
+<p> <b>App link</b>: <a href="http://restaurantrider.pythonanywhere.com/" target="_blank">http://restaurantrider.pythonanywhere.com/ </a></p>
